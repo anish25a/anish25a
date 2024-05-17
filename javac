@@ -1,0 +1,7 @@
+class aa
+  {
+    public static void main(Sring r)
+    {
+      System.out.println("the name is aa")
+        }
+  }
