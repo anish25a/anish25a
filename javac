@@ -1,6 +1,6 @@
 class aa
   {
-    public static void main(Sring r)
+    public static void main(Sring args[])
     {
       System.out.println("the name is aa")
         }
